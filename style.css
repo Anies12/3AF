@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
 }
-
+body{ over-flow:hidden;}
 a:link {
     text-decoration: none;
     color: d0d0d0;
