@@ -60,6 +60,9 @@ a:visited{
     width: 20%;
     border-radius: 2%;
 }
+#secondeNav ul{
+    color: #d0d0d0;
+}
 #secondeNav li{
     padding-top: 10px;
     font-weight: bold;
